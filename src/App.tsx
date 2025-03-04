@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import { Home } from './components/home';
-import { Container, Divider } from '@mui/material';
+import { Container } from '@mui/material';
 
 function App() {
   
@@ -13,7 +13,5 @@ function App() {
     </div>
   );
 }
-
-
 
 export default App;
