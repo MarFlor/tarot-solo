@@ -7,14 +7,9 @@ function App() {
   
   return (
     <div className="App">
-      
       <Container>
-        
         <Home />
-
-        <Divider>If you know, you decide. <br /> Saráh Tarot © {new Date().getFullYear()}</Divider>
-      </Container>      
-      
+      </Container>
     </div>
   );
 }
