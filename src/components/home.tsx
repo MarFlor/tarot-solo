@@ -1,4 +1,4 @@
-import { Avatar, Container, Divider, Icon } from "@mui/material";
+import { Avatar, Container, Divider } from "@mui/material";
 import { TarotCard } from "../types/tarot-card";
 import { Deck } from "./deck";
 import { useEffect, useState } from 'react';
